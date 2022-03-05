@@ -1,0 +1,12 @@
+﻿  virusSimulator.cpp
+C:\Users\YILMAZ\source\repos\VirusSimulator\VirusSimulator\virusSimulator.cpp(149,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\YILMAZ\source\repos\VirusSimulator\VirusSimulator\virusSimulator.cpp(169,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\YILMAZ\source\repos\VirusSimulator\VirusSimulator\virusSimulator.cpp(171,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\YILMAZ\source\repos\VirusSimulator\VirusSimulator\virusSimulator.cpp(192,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\YILMAZ\source\repos\VirusSimulator\VirusSimulator\virusSimulator.cpp(230,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\YILMAZ\source\repos\VirusSimulator\VirusSimulator\virusSimulator.cpp(260,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\YILMAZ\source\repos\VirusSimulator\VirusSimulator\virusSimulator.cpp(270,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\YILMAZ\source\repos\VirusSimulator\VirusSimulator\virusSimulator.cpp(330,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\YILMAZ\source\repos\VirusSimulator\VirusSimulator\virusSimulator.cpp(394,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\YILMAZ\source\repos\VirusSimulator\VirusSimulator\virusSimulator.cpp(404,20): warning C4018: '<': signed/unsigned mismatch
+  VirusSimulator.vcxproj -> C:\Users\YILMAZ\source\repos\VirusSimulator\Debug\VirusSimulator.exe
